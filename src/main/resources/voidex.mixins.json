@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "dev.voidex.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": ["MinecraftClientMixin", "GameRendererMixin"],
+  "injectors": { "defaultRequire": 1 }
+}
